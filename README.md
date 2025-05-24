@@ -1,7 +1,7 @@
 What's next in Web Accessibility
 ======
 
-* Slides: [schepp.github.io/whats-next-in-web-accessibility](https://schepp.github.io/schepp.github.io/whats-next-in-web-accessibility/)
+* Slides: [schepp.github.io/whats-next-in-web-accessibilit](https://schepp.github.io/whats-next-in-web-accessibility/)
 
 ---
 
